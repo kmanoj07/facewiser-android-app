@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96935989583",
+    "project_id": "face2face-a339b",
+    "storage_bucket": "face2face-a339b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96935989583:android:f966054c6621e6cc9ef53a",
+        "android_client_info": {
+          "package_name": "com.mkapp.facewiser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96935989583-0mu4m3rmssl81dsgeptibhhor5ul45p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmYFPvxWlGabdTDofD1VB8DtmhCaA9ra4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96935989583-0mu4m3rmssl81dsgeptibhhor5ul45p0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
